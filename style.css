@@ -58,6 +58,7 @@ img {
   width: 100%;
   position: fixed;
   background-color: white;
+  box-shadow: grey;
 }
 
 .navbar-one {
@@ -221,9 +222,10 @@ img {
 }
 
 .get {
-  height: 4rem;
-  width: 15rem;
-  font-size: 16px;
+  height: 4.5rem;
+  width: 19rem;
+  font-size: 25px;
+  font-weight: 550;
   border-radius: 10rem;
   border: none;
   color: white;
@@ -244,6 +246,7 @@ img {
 
 .para-content {
   display: flex;
+  text-align: center;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -274,6 +277,7 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
   width: 25rem;
   gap: 1rem;
 }
@@ -281,6 +285,7 @@ img {
 .four {
   color: grey;
   font-size: 20px;
+  text-align: center;
 }
 
 .cart-container-two {
@@ -288,13 +293,16 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
   width: 25rem;
   gap: 1rem;
+  margin-bottom: -1rem;
 }
 
 .five {
   color: grey;
   font-size: 20px;
+  text-align: center;
 }
 
 .cart-container-three {
@@ -302,14 +310,16 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  text-align: center;
   width: 25rem;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .six {
   color: grey;
   font-size: 20px;
+  text-align: center;
 }
 
 .para-content-two {
@@ -323,12 +333,14 @@ img {
 
 .para-seven {
   font-size: 40px;
+  text-align: center;
 }
 
 .para-eight {
   width: 40rem;
   font-size: 20px;
   color: grey;
+  text-align: center;
 }
 
 .set-two {
@@ -555,6 +567,7 @@ img {
 
 .para-seventeen {
   font-size: 23px;
+  text-align: center;
 }
 
 .author {
